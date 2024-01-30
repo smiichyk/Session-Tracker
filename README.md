@@ -25,10 +25,10 @@
 
 ## Screenshots
 ![Screenshot 1](screenshots/mainmenu.jpeg)
-*Main Menu: Click on "Add Session"*
+- *Main Menu: Click on "Add Session"*
 
 ![Screenshot 2](screenshots/addsession.jpeg)
-*Add Session Menu: Enter information about the session*
+- *Add Session Menu: Enter information about the session*
 
 ## Contributing
 
